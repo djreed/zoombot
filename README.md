@@ -1,6 +1,7 @@
 # Zoombot
-A highly advanced AI to handle all those Zoom calls so you can live your life in peace. WARNING: Everything about this project is shitty other than Artyom.js (which was actually coded by someone who knows what they're doing) so I take no responsibility for not preloading the images, not creating a local https server, and using some random old ass version of jQuery. Sorry for the nightmares but hey, this thing actually works so have fun! If you want to learn a little more about Zoombot I wrote this too https://redpepper.land/blog/zoombot/
 
+Forked on April 28, 2020 from https://github.com/mcreed/Zoombot
+Original blog post can be found here https://redpepper.land/blog/zoombot/
 
 ## Setup
 - Replace the images in /img with your pics
@@ -14,4 +15,4 @@ A highly advanced AI to handle all those Zoom calls so you can live your life in
 
 
 ## Credits
-Special thanks to Carlos Delgado for making Artyom.js which powers the listening and speaking parts of this project. He's good https://github.com/sdkcarlos/artyom.js/
+Credits to Carlos Delgado for making Artyom.js, and to Matt Reed for the initial iteration of this bot.
